@@ -1,1 +1,2 @@
-console.log("Hello, world in JavaScript!");
+alert("Hello, World!");
+
