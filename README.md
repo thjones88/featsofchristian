@@ -1,5 +1,3 @@
-# featsofchristian
-Feats of Christian
+# Feats of Christian
+Cody's Epic Journey Towards....... Something.
 
-###Lets see if this works!
-Lets see if this works!
